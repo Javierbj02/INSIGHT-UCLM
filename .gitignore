@@ -1,0 +1,11 @@
+*.pdf
+*.jsp
+*.zip
+*.webm
+*.MOV
+
+# Virtual environment
+Ontologies/ontologies/
+
+# Webots
+Webots/Webots/
