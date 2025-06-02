@@ -1,0 +1,10 @@
+Prefix(:=<https://github.com/Javierbj02/INSIGHT-UCLM/blob/main/Ontologies/data_onts/TMO.owl#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+
+Ontology(<https://github.com/Javierbj02/INSIGHT-UCLM/blob/main/Ontologies/data_onts/TMO.owl>
+    Import(<http://www.ease-crc.org/ont/SOMA-PROC.owl>)
+    Import(<http://www.iri.upc.edu/groups/perception/OCRA/ont/ocra.owl>)
+)

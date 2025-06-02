@@ -6,6 +6,7 @@
 
 # Virtual environment
 Ontologies/ontologies/
+Ontologies/data_onts/ignore/
 
 # Webots
 Webots/Webots/
