@@ -5,6 +5,6 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
 
 Ontology(<https://github.com/Javierbj02/INSIGHT-UCLM/blob/main/Ontologies/data_onts/TMO.owl>
-    Import(<http://www.ease-crc.org/ont/SOMA-PROC.owl>)
+    Import(<https://ease-crc.github.io/soma/owl/current/SOMA.owl>)
     Import(<http://www.iri.upc.edu/groups/perception/OCRA/ont/ocra.owl>)
 )
